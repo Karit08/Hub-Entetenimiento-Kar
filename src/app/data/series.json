@@ -1,0 +1,47 @@
+[
+    {
+    "id": 1,
+    "title": "Breaking Bad",
+    "year": "2008-2013",
+    "genre": "Crime",
+    "rating": 9.5,
+    "poster": "https://m.media-amazon.com/images/I/519QRdzQpHL._AC_SY679_.jpg&quot;:[679,475],&quot;https://m.media-amazon.com/images/I/519QRdzQpHL._AC_SY879_.jpg",
+    "description": "A high school chemistry teacher turned methamphetamine manufacturer partners with a former student to produce and distribute the drug."
+    },
+    {
+    "id": 2,
+    "title": "Game of Thrones",
+    "year": "2011-2019",
+    "genre": "Fantasy",
+    "rating": 9.3,
+    "poster": "https://m.media-amazon.com/images/I/51A7EGmxK-L.jpg",
+    "description": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia."
+    },
+    {
+    "id": 3,
+    "title": "Stranger Things",
+    "year": "2016-present",
+    "genre": "Drama",
+    "rating": 8.7,
+    "poster": "https://m.media-amazon.com/images/I/91FTgJZL-kL._AC_SL1500_.jpg",
+    "description": "When a young boy disappears, his mother, a police chief, and his friends must confront terrifying supernatural forces in order to get him back."
+    },
+    {
+    "id": 4,
+    "title": "The Office",
+    "year": "2005-2013",
+    "genre": "Comedy",
+    "rating": 8.9,
+    "poster": "https://m.media-amazon.com/images/I/71WoB4pMr+L._AC_SL1200_.jpg",
+    "description": "A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, and tedium."
+    },
+    {
+    "id": 5,
+    "title": "Friends",
+    "year": "1994-2004",
+    "genre": "Comedy",
+    "rating": 8.9,
+    "poster": "https://m.media-amazon.com/images/I/71EvB26zGcL._AC_SL1500_.jpg",
+    "description": "Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan."
+    }
+]

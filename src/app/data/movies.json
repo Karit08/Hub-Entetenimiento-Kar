@@ -1,0 +1,47 @@
+[
+    {
+    "id": 1,
+    "title": "Inception",
+    "year": 2010,
+    "genre": "Sci-Fi",
+    "rating": 8.8,
+    "poster": "https://m.media-amazon.com/images/I/71uKM+LdgFL._AC_SY741_.jpg",
+    "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO."
+    },
+    {
+    "id": 2,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genre": "Action",
+    "rating": 9.0,
+    "poster": "https://m.media-amazon.com/images/I/818hyvdVfvL._AC_SY450_.jpg",
+    "description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham."
+    },
+    {
+    "id": 3,
+    "title": "Interstellar",
+    "year": 2014,
+    "genre": "Adventure",
+    "rating": 8.6,
+    "poster": "https://m.media-amazon.com/images/I/614QSV5M4lL._AC_SX425_.jpg",
+    "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
+    },
+    {
+    "id": 4,
+    "title": "The Matrix",
+    "year": 1999,
+    "genre": "Sci-Fi",
+    "rating": 8.7,
+    "poster": "https://m.media-amazon.com/images/I/71PfZFFz9yL._AC_SY606_.jpg&quot;:[606,404],&quot;https://m.media-amazon.com/images/I/71PfZFFz9yL._AC_SY355_.jpg",
+    "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers."
+    },
+    {
+    "id": 5,
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "genre": "Crime",
+    "rating": 8.9,
+    "poster": "https://m.media-amazon.com/images/I/71c05lTE03L._AC_SY879_.jpg&quot;:[879,586],&quot;https://m.media-amazon.com/images/I/71c05lTE03L._AC_SY741_.jpg",
+    "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+    }
+]
